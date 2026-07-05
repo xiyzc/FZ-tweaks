@@ -59,11 +59,11 @@
 
 ```bash
 # Repository klonen
-git clone https://github.com/deinusername/FZ-Tweaks.git
-cd FZ-Tweaks
+git clone https://github.com/xiyzc/FZ-Tweaks.git
+cd tweak
 
 # Abhängigkeiten installieren
 pip install -r requirements.txt
 
 # Als Administrator ausführen
-python FZTweaks.py
+python tweak.py
